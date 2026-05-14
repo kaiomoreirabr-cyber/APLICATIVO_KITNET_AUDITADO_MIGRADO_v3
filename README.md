@@ -27,7 +27,7 @@ Gerenciar kitnets com planilhas, cadernos ou conversas no WhatsApp gera confusã
 
 ## Equipe: 
 
-**Kaio Moreira de Morais** — Desenvolvedor Full Stack  
+**Kaio Moreira de Morais**  Desenvolvedor Full Stack  
 Universidade de Balsas (Unibalsas)  Projeto Integrador 2026
 
 
@@ -179,15 +179,15 @@ Os arquivos serão gerados em `dist/`, prontos para deploy em Vercel, Netlify ou
 
 ## Roadmap
 
-**v1 — Curto prazo**
+**v1  Curto prazo**
  Geração de link de pagamento via WhatsApp
 Lembrete automático por WhatsApp próximo ao vencimento
 
-**v2 — Médio prazo**
+**v2  Médio prazo**
  Integração completa com `auth.users.id` do Supabase para isolamento de dados por proprietário
  Responsividade completa para dispositivos móveis
 
-**v3 — Longo prazo**
+**v3  Longo prazo**
  Aplicativo web responsivo para todas as telas  (React Native)
  recuperação de senhas via e-mail
  Integração via vercel para uso do app com dominio proprio 
