@@ -14,7 +14,6 @@
 
 <br/>
 
-[🔗 Acessar o sistema](https://kitnetprodevapp.vercel.app) · [📋 Reportar bug](https://github.com/kaiomoreirabr-cyber/kitnetpro_dev_app/issues) · [💡 Sugerir feature](https://github.com/kaiomoreirabr-cyber/kitnetpro_dev_app/issues)
 
 </div>
 
