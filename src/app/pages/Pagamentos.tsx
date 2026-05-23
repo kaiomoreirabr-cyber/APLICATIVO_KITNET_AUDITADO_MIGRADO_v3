@@ -308,9 +308,9 @@ export default function Pagamentos() {
       <div className="flex gap-2 mb-4">
         {([
           { key: 'todos', label: 'Todos' },
-          { key: 'pago', label: '✓ Pagos' },
-          { key: 'pendente', label: '⏰ Pendentes' },
-          { key: 'atrasado', label: '⚠ Atrasados' },
+          { key: 'pago', label: ' Pagos' },
+          { key: 'pendente', label: ' Pendentes' },
+          { key: 'atrasado', label: ' Atrasados' },
         ] as { key: PagamentoFilter; label: string }[]).map(({ key, label }) => (
           <button
             key={key}
